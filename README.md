@@ -1,2 +1,22 @@
-# AI-Interactive-Agent-Story-Idea-and-Code-Assistant
-A simple AI-powered Python assistant using Google Gemini that helps users create story continuations, get feedback on ideas, and analyze code snippets interactively through the terminal. Designed for creative writing, brainstorming, and quick coding help.
+# 🤖 AI Interactive Agent – Story, Idea, and Code Assistant
+
+A lightweight Python command-line AI agent built with **Google Gemini API**, designed to assist users in **story writing**, **idea feedback**, and **code analysis**. It’s a fun, beginner-friendly project that blends creativity with productivity — all from your terminal!
+
+---
+
+## 🚀 Features
+
+- 🧠 **Story Mode** – Continue your stories in 4–5 engaging sentences  
+- 💡 **Idea Mode** – Get short and constructive feedback on your ideas  
+- 👨‍💻 **Code Mode** – Check for basic syntax issues and quick code advice  
+- ⚙️ Powered by **Gemini 2.5 Flash** (Google Generative AI)  
+- 🖥️ Fully terminal-based and interactive  
+
+---
+
+## 🧰 Requirements
+
+Make sure you have Python 3.8+ installed, then install the required dependency:
+
+```bash
+pip install google-generativeai
